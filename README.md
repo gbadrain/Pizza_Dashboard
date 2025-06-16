@@ -1,6 +1,9 @@
 # Pizza Sales Data Analysis
 
 A comprehensive data analysis project that imports pizza sales data into PostgreSQL, resolves data formatting issues, and performs business intelligence queries to extract key insights.
+<img width="1240" alt="Screenshot 2025-06-16 at 1 52 15 AM" src="https://github.com/user-attachments/assets/8fa9e52f-c59d-4381-9738-d0b8fc126bc2" />
+
+
 
 ## Project Directory Structure
 
@@ -27,8 +30,7 @@ This project demonstrates end-to-end data analysis workflow including:
 - Data cleaning and preprocessing with Python/Pandas
 - PostgreSQL database setup and data import
 - Business analytics through SQL queries
-- Key Performance Indicator (KPI) calculations
-- Sales trend analysis and reporting
+- [Key Performance Indicator (KPI) Calculations](#business-analytics-queries)  - Sales trend analysis and reporting
 
 ## Technologies Used
 
@@ -110,7 +112,6 @@ CREATE TABLE pizza_sales (
 \copy pizza_sales FROM 'Resource/pizza_sales_cleaned.csv' DELIMITER ',' CSV HEADER;
 ```
 
-## Business Analytics Queries
 ## Business Analytics Queries
 
 The **PostgreSQL** results can be matched with Dashboard insights.  
@@ -290,6 +291,7 @@ This analysis enables you to understand:
 
 **Gurpreet Singh Badrain**  
 *Market Research Analyst & Aspiring Data Analyst*
+
 - **My portfolio**: [Data Guru](https://datascienceportfol.io/gbadrain)
 - **GitHub**: [gbadrain](https://github.com/gbadrain)
 - **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
