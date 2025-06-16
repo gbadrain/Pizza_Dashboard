@@ -29,7 +29,7 @@ Pizza_Dashboard/
 This project demonstrates end-to-end data analysis workflow including:
 - Data cleaning and preprocessing with Python/Pandas
 - PostgreSQL database setup and data import
-- Business analytics through SQL queries
+- [Business analytics through SQL queries](#database-setup)
 - [Key Performance Indicator (KPI) Calculations](#business-analytics-queries)  - Sales trend analysis and reporting
 
 ## Technologies Used
