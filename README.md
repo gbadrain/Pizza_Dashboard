@@ -4,8 +4,6 @@ A comprehensive data analysis project that imports pizza sales data into Postgre
 <img width="1242" alt="Screenshot 2025-06-16 at 12 03 36 PM" src="https://github.com/user-attachments/assets/35afae93-11db-4b85-bf03-aec3aa2f2324" />
 
 
-
-
 ## Project Directory Structure
 
 ```
@@ -16,13 +14,14 @@ Pizza_Dashboard/
 ├── MARK_MAP.html          # Interactive mind map visualization
 ├── pizza_date_change.ipynb # Jupyter Notebook for date formatting
 ├── Pizza_sql_excel.xlsx   # Excel file with SQL-based reporting
+├── Pizza_dashboard_excel.md # Excel Worksheets info
 ├── README.md              # Project documentation
 ├── Resource/
 │   ├── pizza_sales_cleaned.csv  # Preprocessed dataset
 │   ├── pizza_sales.csv          # Raw dataset
 └── SQL_Postgres/
     ├── SQL_Pizza.docx, SQL_Pizza.pdf  # SQL documentation
-    ├── SQL_screenshots/  # Screenshots of SQL queries & database analysis
+    └──SQL_screenshots/  # Screenshots of SQL queries & database analysis
 ```
 
 ## Project Overview
@@ -117,8 +116,10 @@ CREATE TABLE pizza_sales (
 
 ## Business Analytics Queries
 
-The **PostgreSQL** results can be matched with Dashboard insights.  
-[View SQL_Pizza.pdf](https://github.com/gbadrain/Pizza_Dashboard/blob/main/SQL_Postgres/SQL_Pizza.pdf)
+The **PostgreSQL** results can be matched with Dashboard insights.  [View SQL_Pizza.pdf](https://github.com/gbadrain/Pizza_Dashboard/blob/main/SQL_Postgres/SQL_Pizza.pdf)
+
+**Excel Worksheets** [Information Excel Worksheets](https://github.com/gbadrain/Pizza_Dashboard/blob/main/Pizza_dashboard_excel.md)
+
 
 ### Key Performance Indicators (KPIs)
 
