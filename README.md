@@ -267,7 +267,7 @@ SELECT COUNT(*) FROM pizza_sales WHERE order_date IS NULL;
 - See hierarchical relationships in data insights
 - Navigate complex SQL queries efficiently
 
-Simply double-click to view the interactive MARK_MAP.html file.
+Simply double-click to view the interactive [MARK_MAP.html file](https://github.com/gbadrain/Pizza_Dashboard/blob/main/MARK_MAP.html)
 
 ## Prerequisites
 
