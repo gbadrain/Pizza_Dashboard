@@ -28,16 +28,18 @@ Pizza_Dashboard/
 
 This project demonstrates end-to-end data analysis workflow including:
 - Data cleaning and preprocessing with Python/Pandas
-- PostgreSQL database setup and data import
-- [Business analytics through SQL queries](#database-setup)
+- [ PostgreSQL database setup](#database-setup) - and data import 
+- Business analytics through SQL queries
 - [Key Performance Indicator (KPI) Calculations](#business-analytics-queries)  - Sales trend analysis and reporting
 
 ## Technologies Used
 
-- **Database**: PostgreSQL
-- **Data Processing**: Python, Pandas
-- **Query Language**: SQL
-- **Data Format**: CSV
+- **Database:** PostgreSQL  
+- **Data Processing:** Python, Pandas  
+- **Query Language:** SQL  
+- **Data Format:** CSV  
+- **Data Visualization & Reporting:** Excel (Pivot Tables, Dashboards)  
+
 
 ## Dataset
 
