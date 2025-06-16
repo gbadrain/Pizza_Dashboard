@@ -1,0 +1,102 @@
+# Pizza Sales Dashboard
+
+## **Key Metrics**
+- **Total Revenue:** $817,860  
+- **Average Order Value:** $38.31  
+- **Total Pizzas Sold:** 49,574  
+- **Total Orders:** 21,350  
+- **Average Pizzas Per Order:** 2.32  
+
+---
+
+## **Busiest Days and Times**
+- **Peak Order Day:** Saturday  
+- **Peak Order Hours:** Noon - 1 PM & 5 - 7 PM  
+
+### **Daily Order Trends**
+| Day       | Total Orders |
+|-----------|-------------|
+| Thursday  | 1275        |
+| Sunday    | 1204        |
+| Wednesday | 1267        |
+| Friday    | 1192        |
+| Monday    | 1202        |
+| **Saturday** | **14,032**  |
+| Tuesday   | 1178        |
+
+### **Hourly Order Trends**
+| Hour  | Total Orders |
+|-------|-------------|
+| 9 AM  | 8           |
+| 10 AM | 1231        |
+| 11 AM | 2520        |
+| 12 PM | 2455        |
+| 1 PM  | 1472        |
+| 2 PM  | 1468        |
+| 3 PM  | 1920        |
+| 4 PM  | 2336        |
+| 5 PM  | 2399        |
+| 6 PM  | 2009        |
+| 7 PM  | 1642        |
+| 8 PM  | 1198        |
+| 9 PM  | 663         |
+| 10 PM | 28          |
+
+---
+
+## **Pizza Sales Breakdown**
+### **Sales by Category (% Contribution)**
+| Category   | Percentage Sales |
+|------------|-----------------|
+| Chicken    | 23.68%          |
+| Classic    | 23.96%          |
+| Supreme    | 25.46%          |
+| Veggie     | 26.91%          |
+
+### **Sales by Pizza Size (% Contribution)**
+| Size  | Percentage Sales |
+|-------|-----------------|
+| L     | 45.89%          |
+| M     | 30.49%          |
+| S     | 21.77%          |
+| XL    | 1.72%           |
+| XXL   | 0.12%           |
+
+### **Total Pizzas Sold by Category**
+| Category   | Total Sold |
+|------------|-----------|
+| Classic    | 14,888    |
+| Supreme    | 11,987    |
+| Veggie     | 11,649    |
+| Chicken    | 11,050    |
+
+---
+
+## **Best & Worst Sellers**
+### **Top 5 Selling Pizzas**
+| Pizza Name                  | Total Sold |
+|-----------------------------|-----------|
+| The Classic Deluxe Pizza    | 2,453     |
+| The Barbecue Chicken Pizza  | 2,432     |
+| The Hawaiian Pizza         | 2,418     |
+| The Pepperoni Pizza        | 2,401     |
+| The Thai Chicken Pizza     | 2,371     |
+
+### **Bottom 5 Selling Pizzas**
+| Pizza Name                | Total Sold |
+|---------------------------|-----------|
+| The Soppressata Pizza     | 961       |
+| The Spinach Supreme Pizza | 950       |
+| The Calabrese Pizza       | 937       |
+| The Mediterranean Pizza   | 934       |
+| The Brie Carre Pizza      | 490       |
+
+---
+
+## **Pizza Sales Over Time**
+- **Sales Data Period:** Full Year (2015)
+- **Peak Months:** June, July, August, September, October, November, December  
+
+---
+
+This Markdown format makes it easy to **copy and paste into GitHub**. Let me know if you'd like any refinements! 🚀
