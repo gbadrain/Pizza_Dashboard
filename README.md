@@ -1,6 +1,14 @@
-# Pizza Sales Data Analysis
+# Pizza Sales Data Analysis Project
 
-A comprehensive data analysis project that imports pizza sales data into PostgreSQL, resolves data formatting issues, and performs business intelligence queries to extract key insights.
+This project integrates **PostgreSQL** for querying and **Excel** for visualization to derive business insights.
+
+## **Key Components**
+- **SQL Queries:** Extract key metrics—revenue, sales trends, and performance breakdowns.
+- **Excel Dashboards:** Pivot tables, dynamic charts, and Power Query streamline data analysis.
+- **Data Cleaning:** Resolves formatting issues for seamless database imports.
+
+Using **SQL for data extraction** and **Excel for reporting**, this analysis supports data-driven decisions with **clear, actionable insights**.
+
 <img width="1242" alt="Screenshot 2025-06-16 at 12 03 36 PM" src="https://github.com/user-attachments/assets/35afae93-11db-4b85-bf03-aec3aa2f2324" />
 
 
