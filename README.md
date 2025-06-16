@@ -285,3 +285,27 @@ This analysis enables you to understand:
 - Best and worst performing pizzas
 - Seasonal and monthly variations
 - Average order characteristics
+
+## Contact & Support
+
+**Gurpreet Singh Badrain**  
+*Market Research Analyst & Aspiring Data Analyst*
+
+- **GitHub**: [gbadrain](https://github.com/gbadrain)
+- **LinkedIn**: [gurpreet-badrain](http://linkedin.com/in/gurpreet-badrain-b258a0219)
+- **Email**: gbadrain@gmail.com
+- **Streamlit**: [Streamlit App](https://gbadrain-machine-learning.streamlit.app)
+
+
+---
+## **Support gratitude**  
+**Copilot AI** provided valuable assistance.  
+Subscriber : **datatutorials1** https://www.youtube.com/@datatutorials1
+
+
+
+## Show Your Support
+
+If you found this project helpful, please consider giving it a star on GitHub!
+
+[![GitHub stars](https://img.shields.io/github/stars/gbadrain/Music_Recommendation.svg?style=social&label=Star)](https://github.com/gbadrain/Music_Recommendation)
